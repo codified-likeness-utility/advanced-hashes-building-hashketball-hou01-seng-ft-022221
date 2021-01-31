@@ -6,7 +6,7 @@ def game_hash
       :players => player_hash = [
         {
           :player_name => "Alan Anderson",
-          :number => 0,
+          :number => "0",
           :shoe => 16,
           :points => 22,
           :rebounds => 12,
@@ -17,7 +17,7 @@ def game_hash
         },
         {
           :player_name => "Reggie Evans"
-          :number => 30,
+          :number => "30",
           :shoe => 14,
           :points => 12,
           :rebounds => 12,
@@ -28,7 +28,7 @@ def game_hash
         },
         {
           :player_name => "Brook Lopez"
-          :number => 11,
+          :number => "11",
           :shoe => 17,
           :points => 17, 
           :rebounds => 19,
@@ -39,7 +39,7 @@ def game_hash
         },
         {
           :player_name => "Mason Plumlee"
-          :number => 1,
+          :number => "1",
           :shoe => 19,
           :points => 26,
           :rebounds => 11,
@@ -50,7 +50,7 @@ def game_hash
         },
         {
           :player_name => "Jason Terry"
-          :number => 31,
+          :number => "31",
           :shoe => 15,
           :points => 19,
           :rebounds => 2,
@@ -67,7 +67,7 @@ def game_hash
                 :players => player_hash = [
         {
           :player_name => "Jeff Adrien"
-          :number => 4,
+          :number => "4",
           :shoe => 18,
           :points => 10,
           :rebounds => 1,
@@ -78,7 +78,7 @@ def game_hash
         },
         {
           :player_name => "Bismack Biyombo"
-          :number => 0,
+          :number => "0",
           :shoe => 16,
           :points => 12,
           :rebounds => 4,
@@ -89,7 +89,7 @@ def game_hash
         },
         {
           :player_name => "DeSagna Diop"
-          :number => 2,
+          :number => "2",
           :shoe => 14,
           :points => 24,
           :rebounds => 12,
@@ -100,7 +100,7 @@ def game_hash
         },
         {
           :player_name => "Ben Gordon"
-          :number => 8,
+          :number => "8",
           :shoe => 15,
           :points => 33,
           :rebounds => 3,
@@ -111,7 +111,7 @@ def game_hash
         },
         {
           :player_name => "Kemba Walker"
-          :number => 33,
+          :number => "33",
           :shoe => 15,
           :points => 6,
           :rebounds => 12,
