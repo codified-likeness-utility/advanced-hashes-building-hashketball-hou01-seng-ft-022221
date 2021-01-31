@@ -43,7 +43,7 @@ def game_hash
           :shoe => 19,
           :points => 26,
           :rebounds => 11,
-          :assists => 6
+          :assists => 6,
           :steals => 3,
           :blocks => 8,
           :slam_dunks => 5
@@ -58,7 +58,7 @@ def game_hash
           :steals => 4,
           :blocks => 11,
           :slam_dunks => 1
-        },
+        }
                 ]
     },
     :away => {
@@ -119,7 +119,7 @@ def game_hash
           :steals => 7,
           :blocks => 5,
           :slam_dunks => 12
-        },
+        }
                 ]
     }
   }
