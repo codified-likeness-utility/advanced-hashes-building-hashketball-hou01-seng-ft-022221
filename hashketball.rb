@@ -1,8 +1,8 @@
 def game_hash
   {
     :home => {
-      :team_name => {"Brooklyn Nets"},
-      :colors => {nets_colors = ["Black", "White"]},
+      :team_name => "Brooklyn Nets",
+      :colors => nets_colors = ["Black", "White"],
       :players => {player_hash = [
         {
           :player_name => "Alan Anderson",
@@ -62,8 +62,8 @@ def game_hash
                 ]}
     },
     :away => {
-                :team_name => {"Charlotte Hornets"},
-                :colors => {hornets_colors = ["Turquoise", "Purple"]},
+                :team_name => "Charlotte Hornets",
+                :colors => hornets_colors = ["Turquoise", "Purple"],
                 :players => {player_hash = [
         {
           :player_name => "Jeff Adrien"
